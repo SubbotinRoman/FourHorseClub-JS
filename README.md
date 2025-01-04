@@ -35,7 +35,7 @@
 git clone https://github.com/SubbotinRoman/FourHorseClub-JS.git
 ```
 
-1. Перейдите в папку с проектом:
+2. Перейдите в папку с проектом:
 
 ```bash
 cd FourHorseClub-JS

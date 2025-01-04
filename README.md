@@ -1,16 +1,16 @@
 # FourHorseClub-JS (HTML / CSS / JavaScript)
 
-## Overview 🌟
+## Обзор 
 
-This is a landing page, combines elegant design with practical functionality. It's crafted to help entrepreneurs present their business ideas effectively and make a strong first impression in the digital space.
+Это юмористический веб-сайт, основанный на знаменитом эпизоде романа "12 стульев" о городе Васюки. Сайт стилизован под платформу для сбора средств на организацию "Международного васюкинского турнира по шахматам" и содержит интерактивные элементы, описывающие грандиозный план превращения уездного города в "столицу земного шара".
 
-### [Check the Live Demo](https://subbotinroman.github.io/FourHorseClub-JS/) :point_left:
+### [Посмотреть демо](https://subbotinroman.github.io/FourHorseClub-JS/) :point_left:
 
 <img alt="ToDo-List preview" src="./img/preview.png">
 
 ---
 
-## Stack ⚙️
+## Технологии 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,35 +18,35 @@ This is a landing page, combines elegant design with practical functionality. It
 
 ---
 
-## Features 🚀
+## Особенности 
 
-- 📱 Adaptive design
-- 🎨 Modern UI/UX
-- 🛠️ Easy Customization
-- 🌐 Cross-Browser Compatible
+- 📱 Адаптивный дизайн
+- 🎨 Современный интерфейс
+- ⚙️ Простая настройка
+- 🌐 Кроссбраузерная совместимость
 
 ---
 
-### Local Development
+### Как запустить локально
 
-1. Clone the repository
+1. Клонируйте репозиторий
 
 ```bash
 git clone https://github.com/SubbotinRoman/FourHorseClub-JS.git
 ```
 
-2. Navigate to project directory
+2. Перейдите в директорию проекта
 
 ```bash
 cd FourHorseClub-JS
 ```
 
-3. Open index.html in your browser
-   - Double click index.html file
-   - Or open via browser: File -> Open File -> select index.html
+3. Откройте index.html в вашем браузере
+   - Дважды кликните по файлу index.html
+   - Или откройте через браузер: Файл -> Открыть файл -> выберите index.html
 
-### Development Setup (Optional)
+### Дополнительно (Опционально)
 
-1. Install Live Server extension in VS Code
-2. Right click on index.html
-3. Select "Open with Live Server"
+1. Установите расширение Live Server в VS Code
+2. Правый клик на index.html
+3. Выберите "Open with Live Server"
